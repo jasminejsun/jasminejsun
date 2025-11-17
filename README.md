@@ -3,3 +3,5 @@
 - 💼 I'm currently working as a SWE Intern at Datadog and have previously worked at Cockroach Labs.
 - 🌱 Fun fact: I love growing vegetables and crocheting in my spare time!
 - 📫 Feel free to reach out to me at jasmine.sun@uwaterloo.ca and see what I've been up to at https://jasminejsun.github.io/
+
+My icon is inspired by a drawing from @avocadoneko. The Go gopher was designed by Renée French!
